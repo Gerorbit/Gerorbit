@@ -2,8 +2,10 @@
 
 ##### 📘 ️Edu  
 
-`-` inha Univ / Electrical Engineering
+`-` ilsan Jungsan High school \
+`-` inha Univ / Electrical Engineering \
 `-` POSCO AI Big Data Academy 
+
 
 ##### 🏆 Project  
 
