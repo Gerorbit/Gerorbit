@@ -18,6 +18,7 @@
 
 ##### <div align=left><h1>📚 Stack</h1></div>
 
+<img src="https://img.shields.io/badge/Python-3776ABstyle=for-the-badge&logo=Python&logoColor=white">
 
 
 
