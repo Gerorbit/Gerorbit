@@ -8,7 +8,7 @@
 `-` inha Univ / Electrical Engineering \
 `-` POSCO AI Big Data Academy  
 
-&nbsp
+&nbsp; 
 
 <div align=left><h1>🏆 Project</h1></div>
 
@@ -18,7 +18,7 @@
 | 2022.03 - 2022.04 | 인공지능 프로젝트 | [감정분석을 이용한 사용자 맞춤 오디오 북](https://github.com/Gerorbit/Project/tree/main/%EA%B0%90%EC%A0%95%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%A7%9E%EC%B6%A4%20%EC%98%A4%EB%94%94%EC%98%A4%20%EB%B6%81) |
 | 2022.02 - 2022.03 | 빅데이터 분석 프로젝트 | [제지공정의 운전조건 최적화 및<br/> 고장 사전예측 모델 개발로 고장 최소화](https://github.com/Gerorbit/Project/tree/main/%EC%A0%9C%EC%A7%80%EA%B3%B5%EC%A0%95%EC%9D%98%20%EC%9A%B4%EC%A0%84%EC%A1%B0%EA%B1%B4%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EB%B0%8F%20%EA%B3%A0%EC%9E%A5%20%EC%82%AC%EC%A0%84%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8%20%EA%B0%9C%EB%B0%9C%EB%A1%9C%20%EA%B3%A0%EC%9E%A5%20%EC%B5%9C%EC%86%8C%ED%99%94) |  
 
-&nbsp
+&nbsp; 
 
 <div align=left><h1>📚 Stack</h1></div>
 
