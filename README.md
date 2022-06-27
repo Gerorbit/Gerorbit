@@ -1,7 +1,10 @@
 ### :sunglasses::sunglasses::sunglasses:  KIM DAE HYUN 
 
 ![Gerorbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerorbit&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gerorbit)](https://solved.ac/gerorbit/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gerorbit)](https://solved.ac/gerorbit/) 
+
+&nbsp; 
+
 <div align=left><h1>📘 ️Edu</h1></div>
 
 `-` ilsan Jungsan High school \
