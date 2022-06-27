@@ -1,4 +1,6 @@
-### :sunglasses::sunglasses::sunglasses: Hi I'm DAE HYUN KIM  
+### :sunglasses::sunglasses::sunglasses:  KIM DAE HYUN 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGerorbit&count_bg=%23C0C4BC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <div align=left><h1>📘 ️Edu</h1></div>
